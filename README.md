@@ -1,5 +1,7 @@
 # T101
 
+## Three different projects
+
 - Blocks of code ranging from various different languages.
 
 ------------- Test Project ----------------
@@ -9,7 +11,6 @@ Videos
 
 ------ Python --------
 
-
 -------- Stuff to break ---------
 
 7 LCD indoor unit 
@@ -18,8 +19,6 @@ Videos
 
 Computers
 
-
 Phones
-
 
 Radios
