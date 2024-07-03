@@ -6,7 +6,7 @@
 - Cybersecurity
 
 ## Code
-- Blocks of code ranging from various different languages.
+- Blocks of code ranging from various languages.
 
 ## ------------- Test Projects ----------------
 - Project
@@ -28,13 +28,13 @@
 - Link
 
 ## -------- Stuff to break ---------
-7 LCD indoor unit 
-- LCD screen ( 26 pin, 0.5 pitch )
-- Chips (Some chips have no datasheet)
-
+7 LCD indoor unit (Somewhat disappeared)
+>>>> ASUS DSL-N55U
 
 Computers
 
 Phones
 
 Radios
+
+IoT
